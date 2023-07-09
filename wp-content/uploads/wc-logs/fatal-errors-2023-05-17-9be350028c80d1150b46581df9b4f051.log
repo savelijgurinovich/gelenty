@@ -1,0 +1,4 @@
+2023-05-17T10:46:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\OSPanel\domains\gelenty.by\wp-content\themes\astra\inc\template-tags.php на строке 10
+
+2023-05-17T10:48:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\OSPanel\domains\gelenty.by\wp-includes\Requests\src\Transport\Curl.php на строке 534
+

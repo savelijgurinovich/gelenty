@@ -1,0 +1,4 @@
+2023-05-02T14:34:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\OSPanel\domains\gelenty.by\wp-content\plugins\woocommerce\src\Internal\Admin\Marketing.php на строке 16
+
+2023-05-02T14:36:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\OSPanel\domains\gelenty.by\wp-includes\Requests\src\Transport\Curl.php на строке 510
+
